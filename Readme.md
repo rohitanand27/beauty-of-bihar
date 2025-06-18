@@ -20,7 +20,7 @@
   
   <br/>
 <p align="center">
-  <a href="https://github.com/baibhavsagar/BeautyOfBihar">
+  <a href="https://github.com/rohitanand27/BeautyOfBihar">
     <img src="https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/Logo-original.png?updatedAt=1712870806674" alt="Logo" width="110" height="80">
   </a>
 
