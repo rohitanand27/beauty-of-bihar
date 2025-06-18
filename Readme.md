@@ -30,11 +30,7 @@
     Welcome to my "Beauty of Bihar" Repository.
     <br/>
     <br/>
-    <a href="https://baibhavsagar.tech"><strong>Click here to Visit the Website »</strong></a>
-    <br>
-    <a href="https://scratched-truffle-93c.notion.site/Beauty-Of-Bihar-Tourism-Management-System-546942d3c10a4026abbe132993432167?pvs=4"><strong>Click here for Detailed Documentation »</strong></a>
-    <br/>
-    <br/>
+    
   </p>
 </p>
 
