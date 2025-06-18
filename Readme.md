@@ -24,7 +24,8 @@
     <img src="https://ik.imagekit.io/bbhavsgr/Beauty-of-Bihar/Logo-original.png?updatedAt=1712870806674" alt="Logo" width="110" height="80">
   </a>
 
-  <h1 align="center">Beauty Of Bihar</h1>
+  <h1 align="center"><a href="https://beauty-of-bihar.vercel.app/">live link</a></h1>
+
 
   <p align="center">
     Welcome to my "Beauty of Bihar" Repository.
