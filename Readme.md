@@ -169,7 +169,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-# More Visit at(https://baibhavsagar.tech)
+
 
 
 ## <a name="[deploy-on-infinitty-free">🖨️ Deploy on Infinity Free </a>
@@ -223,15 +223,7 @@ Following these steps should help you deploy your PHP project successfully on In
 ## <a name="give-a-star">⭐ Give a Star</a>
 You can also give this repository a star to show more people and they can use this repository.
 
-## <a name="follow-me">🚀Follow Me On</a>
-[This Repository is developed and maintained by Baibhav Sagar](https://github.com/baibhavsagar)
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://github.com/baibhavsagar "Instagram")
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baibhavsagar "Instagram")
-
-[![Follow Me](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baibhavsagar "Linked In")
 
 
 
